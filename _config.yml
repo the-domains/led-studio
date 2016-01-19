@@ -1,7 +1,7 @@
 name: LED STUDIO
 favicon: null
 layout_spectrum: 0.954256885452196
-typography_spectrum: 0.31109533086419106
+typography_spectrum: 0.38455
 title: LED STUDIO
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
+    - '#fbfbfb'
+    - '#313131'
+    - '#4b4b4b'
+    - '#6e6e6e'
+    - '#a2a2a2'
   brandStrength: 0.6479519573040307
-  lightness: 0.0628128363750875
-  saturation: 0.819644026691094
-  rhythmicContrast: 0.31957845599390566
+  lightness: 0
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
