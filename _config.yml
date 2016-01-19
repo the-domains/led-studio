@@ -2,6 +2,7 @@ name: LED STUDIO
 favicon: null
 layout_spectrum: 0.954256885452196
 typography_spectrum: 0.31109533086419106
+title: LED STUDIO
 cta:
   domain: null
   bucket: null
